@@ -154,3 +154,4 @@ C:\Users\DELL\Desktop\Prueba Tecnica\TBTBGlobal_PruebaTecnicaAPI\TBTBGlobal_Prue
 C:\Users\DELL\Desktop\Prueba Tecnica\TBTBGlobal_PruebaTecnicaAPI\TBTBGlobal_PruebaTecnicaAPI\obj\Debug\net6.0\TBTBGlobal_PruebaTecnicaAPI.pdb
 C:\Users\DELL\Desktop\Prueba Tecnica\TBTBGlobal_PruebaTecnicaAPI\TBTBGlobal_PruebaTecnicaAPI\obj\Debug\net6.0\TBTBGlobal_PruebaTecnicaAPI.genruntimeconfig.cache
 C:\Users\DELL\Desktop\Prueba Tecnica\TBTBGlobal_PruebaTecnicaAPI\TBTBGlobal_PruebaTecnicaAPI\obj\Debug\net6.0\ref\TBTBGlobal_PruebaTecnicaAPI.dll
+C:\Users\DELL\Desktop\Prueba Tecnica\TBTBGlobal_PruebaTecnicaAPI\TBTBGlobal_PruebaTecnicaAPI\obj\Debug\net6.0\TBTBGlobal_PruebaTecnicaAPI.sourcelink.json
